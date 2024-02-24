@@ -3,6 +3,7 @@
 #            Kosheleva Ann
 #            Markelov Egor
 #            Sokolova Sofia
+
 import ru_local as ru
 
 print(ru.TASK)

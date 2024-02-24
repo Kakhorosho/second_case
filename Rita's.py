@@ -1,8 +1,14 @@
+# Part of case-study
+# Developer: Rusakova Margarita
+#            Kosheleva Ann
+#            Markelov Egor
+#            Sokolova Sofia
+import ru_local as ru
+
+print(ru.TASK)
 import matplotlib.pyplot as plt
 import numpy as np
 import sympy as sy
-
-import ru_local as ru
 
 
 def qd(q1, q2, p1, p2):
